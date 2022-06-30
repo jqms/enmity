@@ -1,0 +1,40 @@
+{
+	"name": "Annie",
+	"version": "1.0.0",
+	"description": "Annie desktop build override ported to Enmity!",
+	"color": "#141414",
+	"authors": [
+	  {
+		"name": "Rosie",
+		"id": "582594004479246343"
+	  }
+	],
+	"theme_color_map": {
+	  "BACKGROUND_PRIMARY": ["#141414", "#141414"],
+	  "BACKGROUND_SECONDARY": ["#111111", "#111111"],
+	  "BACKGROUND_SECONDARY_ALT": ["#121212", "#121212"],
+	  "BACKGROUND_TERTIARY": ["#111111", "#111111"],
+	  "BACKGROUND_MOBILE_PRIMARY": ["#141414", "#141414"],
+	  "BACKGROUND_MOBILE_SECONDARY": ["#101010", "#101010"],
+	  "BACKGROUND_MODIFIER_ACCENT": ["#141414", "#141414"],
+	  "BACKGROUND_MODIFIER_ACTIVE": ["#191919", "#191919"],
+	  "BACKGROUND_MODIFIER_SELECTED": ["#161616", "#161616"],
+	  "KEYBOARD": ["#111111", "#111111"],
+	  "BACKGROUND_FLOATING": ["#111111", "#111111"],
+	  "BACKGROUND_NESTED_FLOATING": ["#111111", "#111111"],
+	  "INTERACTIVE_NORMAL": ["#191919", "#191919"]
+	  
+	},
+	"colours": {
+	  "PRIMARY_DARK": "#FFFFFF",
+	  "BRAND_NEW": "transparent",
+	  "PRIMARY_DARK_500": "#161616",
+	  "PRIMARY_DARK_600": "#141414",
+	  "PRIMARY_DARK_700": "#141414",
+	  "PRIMARY_DARK_800": "#141414",
+	  "PRIMARY_DARK_630": "#161616"
+	},
+	"unsafe_colors": {
+	  "CHAT_GREY": "#000000"
+	}
+  }
